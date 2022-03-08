@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-  <h2> Allahafiz </h2>
+  <h2> Allahafiz Tata </h2>
   
 </form>
